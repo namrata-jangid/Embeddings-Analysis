@@ -16,13 +16,13 @@ This project explores visual foundation models and their embeddings through a se
 4. **cifar_clip_embs_lda.ipynb:**
    - Performs LDA on CLIP embeddings of Cifar-10 dataset.
 
-5. **.ipynb:**
-   - 
+5. **LDA_on_SAM_Embeddings_CIFAR_10.ipynb.ipynb:**
+   - Performs LDA on SAM image embeddings of Cifar-10 dataset.
 
-6. **.ipynb:**
-   - 
+6. **LDA_on_SAM_Embeddings_Caltech_101.ipynb:**
+   - Performs LDA on SAM image embeddings of Caltech-101 dataset.
 
-7. **.ipynb:**
-   - 
+7. **SAM_Embeddings_Analysis_on_KITTI.ipynb:**
+   - Performs cluster analysis on SAM image embeddings for KITTI images. 
 
 Feel free to explore each notebook for in-depth analyses and insights into visual foundation models.
